@@ -63,7 +63,7 @@ function getSet() {
         return result;
       }
     let ar = [1, 1, 1, 3, 4, 2, 2]
-    console.log( unique(ar) )
+    console.log( unique(arr) )
 }
 
 
@@ -81,6 +81,7 @@ function findTheMostReapetedEls()  {
 // [']', '[', ']'] -> false
 export const stack = () => {
     //code here
+
 }
 
 
